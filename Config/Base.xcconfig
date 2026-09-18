@@ -1,0 +1,6 @@
+SUPABASE_PROJECT_ID =
+SUPABASE_ANON_KEY =
+
+// Local values override the blanks above. This optional file is gitignored.
+#include? "Secrets.xcconfig"
+
